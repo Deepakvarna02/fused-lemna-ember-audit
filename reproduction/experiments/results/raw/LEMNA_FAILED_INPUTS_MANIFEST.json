@@ -1,0 +1,23 @@
+{
+  "files": [
+    "experiments/results/raw/failed_subproblems/record_2_failed_001.npz",
+    "experiments/results/raw/failed_subproblems/record_2_failed_002.npz",
+    "experiments/results/raw/failed_subproblems/record_2_failed_003.npz",
+    "experiments/results/raw/failed_subproblems/record_2_failed_004.npz",
+    "experiments/results/raw/failed_subproblems/record_2_failed_005.npz",
+    "experiments/results/raw/failed_subproblems/record_2_failed_006.npz",
+    "experiments/results/raw/failed_subproblems/record_2_failed_007.npz",
+    "experiments/results/raw/failed_subproblems/record_4_failed_001.npz",
+    "experiments/results/raw/failed_subproblems/record_4_failed_002.npz",
+    "experiments/results/raw/failed_subproblems/record_4_failed_003.npz",
+    "experiments/results/raw/failed_subproblems/record_4_failed_004.npz",
+    "experiments/results/raw/failed_subproblems/record_4_failed_005.npz",
+    "experiments/results/raw/failed_subproblems/record_4_failed_006.npz",
+    "experiments/results/raw/failed_subproblems/record_4_failed_007.npz",
+    "experiments/results/raw/failed_subproblems/record_4_failed_008.npz",
+    "experiments/results/raw/failed_subproblems/record_4_failed_009.npz"
+  ],
+  "count": 16,
+  "training_only": true,
+  "final_test_accessed": false
+}

@@ -1,0 +1,30 @@
+{
+  "test": "TEST 4 \u2014 LARGER NEIGHBOURHOOD",
+  "status": "BLOCKED",
+  "configuration": {
+    "rho": 0.1,
+    "S": 1.0,
+    "abs_tolerance": 1e-06,
+    "relative_tolerance": 1e-05,
+    "outer_cap": 200,
+    "inner_solver_maxiter": 300,
+    "changed_only": "neighbourhood sample count n=1000 to n=3000"
+  },
+  "record_results": [
+    {
+      "record_index": 2,
+      "subproblem": "record_2_failed_001.npz",
+      "status": "BLOCKED",
+      "attempted": "record 2 only; n=1000 then n=3000 planned",
+      "completed": "training reconstruction; n=1000 X, y, and first E-step responsibilities matched the persisted subproblem within thresholds 1e-10, 1e-10, and 1e-8 respectively",
+      "exact_error": "KeyboardInterrupt: dense full-spectrum SVD did not return; manually stopped after approximately 11 minutes as too slow. No SVD result or solver metrics completed."
+    },
+    {
+      "record_index": 4,
+      "subproblem": "record_4_failed_001.npz",
+      "status": "NOT RUN",
+      "reason": "Record 2 did not finish within the practical time budget."
+    }
+  ],
+  "runtime_seconds_before_stop_approx": 660
+}

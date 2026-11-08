@@ -1,0 +1,3 @@
+record_index,subproblem,status,exact_error,reason
+2,record_2_failed_001.npz,BLOCKED,KeyboardInterrupt: dense full-spectrum SVD did not return; manually stopped after approximately 11 minutes as too slow. No SVD result or solver metrics completed.,
+4,record_4_failed_001.npz,NOT RUN,,Record 2 did not finish within the practical time budget.

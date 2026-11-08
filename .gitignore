@@ -1,0 +1,35 @@
+# Exclude EMBER and all sample-level data
+data/
+datasets/
+train_features_*.jsonl
+test_features*.jsonl
+*.npz
+*.npy
+*.pkl
+*.pickle
+*.parquet
+*.bin
+*.exe
+*.dll
+*.sys
+*.malware
+raw/
+results/raw/
+
+# Credentials, logs, and local runtime artifacts
+.env
+.env.*
+*.log
+logs/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Keep the manifest only; raw NPZ inputs remain ignored
+!reproduction/experiments/results/raw/
+reproduction/experiments/results/raw/*
+!reproduction/experiments/results/raw/LEMNA_FAILED_INPUTS_MANIFEST.json

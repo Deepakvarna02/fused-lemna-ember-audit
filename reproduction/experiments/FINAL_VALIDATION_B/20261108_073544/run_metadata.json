@@ -1,0 +1,14 @@
+{
+  "python": "3.12.4 (tags/v3.12.4:8e8a4ba, Jun  6 2024, 19:30:16) [MSC v.1940 64 bit (AMD64)]",
+  "numpy": "2.2.6",
+  "scipy": "1.15.3",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "processor": "AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD",
+  "logical_cpu_count": 12,
+  "training_data_only": true,
+  "official_test_records_accessed": false,
+  "malware_executed": false,
+  "run_a_edited": false,
+  "test6_elapsed_seconds_before_stop_approx": 660,
+  "svd_branch_method": "numpy.linalg.svd(compute_uv=False, full_matrices=False); interrupted branches report no partial spectrum."
+}

@@ -1,0 +1,29 @@
+{
+  "title": "EMBER Fused-LEMNA: Bounded Validation Release",
+  "upload_type": "software",
+  "description": "Local reproducibility materials and aggregate training-only validation results for a bounded EMBER Fused-LEMNA study. Dataset files, malware binaries, sample-level NPZ inputs, and credentials are not included.",
+  "creators": [
+    {
+      "name": "Kottapalli Deepak Varma",
+      "affiliation": "R.M.D. Engineering College",
+      "orcid": "AUTHOR TO CONFIRM"
+    }
+  ],
+  "keywords": [
+    "EMBER",
+    "LEMNA",
+    "fused lasso",
+    "explainable AI",
+    "malware classification",
+    "reproducibility"
+  ],
+  "version": "0.1.0",
+  "license": "AUTHOR TO CONFIRM",
+  "related_identifiers": [
+    {
+      "identifier": "AUTHOR TO CONFIRM",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

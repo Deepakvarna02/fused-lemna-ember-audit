@@ -1,0 +1,72 @@
+{
+  "count": 16,
+  "training_only": true,
+  "final_test_accessed": false,
+  "files": [
+    {
+      "file": "record_2_failed_001.npz",
+      "sha256": "090cf656cd9e120ebb309d7db29d14ff91083c299240fbe663c883195db67fe6"
+    },
+    {
+      "file": "record_2_failed_002.npz",
+      "sha256": "80dc7c3dc3b0a14d223e864070c639bb4faf789e307d35e6c1025cd91be07072"
+    },
+    {
+      "file": "record_2_failed_003.npz",
+      "sha256": "c29f51792a91adff29745bd1a74ebe0054b584309c1c3eee1d9f1a98f4262690"
+    },
+    {
+      "file": "record_2_failed_004.npz",
+      "sha256": "83fb13b22e9f5b456f66704d0638472628bf4f03a1178d401c472e1e41654a21"
+    },
+    {
+      "file": "record_2_failed_005.npz",
+      "sha256": "b78b5ed582bc210e03495052a1d40e39f593b4418f91e95fbce111d931fae7a2"
+    },
+    {
+      "file": "record_2_failed_006.npz",
+      "sha256": "3156fc8136758c543beb49364a49b97f2a6581ea9eb195fdb12f593138db8df8"
+    },
+    {
+      "file": "record_2_failed_007.npz",
+      "sha256": "b32b4dd5c758afad2f247fe62b2516af9e63caee4bd68744e589bab88deaa465"
+    },
+    {
+      "file": "record_4_failed_001.npz",
+      "sha256": "f4945a2eb54073488f2284b91dba441145e410536335dd1096e72bffc26ced87"
+    },
+    {
+      "file": "record_4_failed_002.npz",
+      "sha256": "d463caa67c33a8e82fd119959e2f76ad66db1590f2547d89190872e796aed9a4"
+    },
+    {
+      "file": "record_4_failed_003.npz",
+      "sha256": "e183bc77cb8729fa543e52f4b80ec9191d0e8b977ac0f3e5cc89d3b93d518bce"
+    },
+    {
+      "file": "record_4_failed_004.npz",
+      "sha256": "73d54e9946431e0fe7387f2b155d69f86e22ea2c18f1d9aca0df41fd317afa92"
+    },
+    {
+      "file": "record_4_failed_005.npz",
+      "sha256": "b06435a4c3cb228353d229748137af09bfc5849be4a377b52c816247e3516975"
+    },
+    {
+      "file": "record_4_failed_006.npz",
+      "sha256": "5eee7a706d97dcbdf493ac6336e4344baa6ee55c1ce45edd3e7a6d5d7e3ce7aa"
+    },
+    {
+      "file": "record_4_failed_007.npz",
+      "sha256": "9e6826e2a451b4070a4970febcd6840e956ad8ed0a4f16eeda329f32dcc9d857"
+    },
+    {
+      "file": "record_4_failed_008.npz",
+      "sha256": "6c751cdaf7811b6bc5604a7ec6404bcf120f2b34594db7ad876b7f0c74221881"
+    },
+    {
+      "file": "record_4_failed_009.npz",
+      "sha256": "8eaf090aeb829316b8e308ff8b818d023c3bae94a802dea94257ac9054770754"
+    }
+  ],
+  "note": "Hashes and basenames only; NPZ data files are intentionally excluded."
+}

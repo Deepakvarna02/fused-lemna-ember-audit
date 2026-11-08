@@ -1,0 +1,27 @@
+{
+  "test": "TEST 5 \u2014 CONNECTED-FEATURE ABLATION",
+  "status": "BLOCKED",
+  "feature_space_note": "The 608-coordinate ablation is a changed feature space and a different optimisation problem.",
+  "configuration": {
+    "full_feature_count": 2381,
+    "graph_touched_feature_count": 608,
+    "rho": 0.1,
+    "S": 1.0,
+    "abs_tolerance": 1e-06,
+    "relative_tolerance": 1e-05,
+    "outer_cap": 200,
+    "inner_solver_maxiter": 300
+  },
+  "record_results": [
+    {
+      "status": "BLOCKED",
+      "exact_error": "KeyboardInterrupt: dense full-spectrum SVD for the first (record 2, all 2,381 coordinates) case did not return; manually stopped after 300 seconds as too slow. No Test 5 rank or solver metrics completed."
+    },
+    {
+      "record_index": 4,
+      "status": "NOT RUN",
+      "reason": "Stopped after record 2 full-spectrum SVD exceeded the practical time budget."
+    }
+  ],
+  "runtime_seconds_before_stop_approx": 300
+}
