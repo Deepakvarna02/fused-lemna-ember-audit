@@ -1,6 +1,6 @@
 # SHA-256 manifest. Self-excluded because a file cannot contain its own stable hash.
 3b0fabb124b5dc88ab5cb4201d85e7ed5f58452d5d1d72a40f2ba9029075696c  .gitignore
-ba717dafcf4294e2ff8d53b645991445316655b2f9c59079f80061278961f768  .zenodo.json
+7cc02bf8c1f8f5e5993794fa4e5e4effe9f65c10769024249dbe59f9605899f6  .zenodo.json
 cb0f5d61e887856a10f6dcc0222bf8f9d1160cb8824f4da5a263d6c7494caf12  arxiv_checklist.md
 b0f6943db38b8511adc4320839dbd6d565b3ec86007b2c92248e28a3a6722f69  endorsement_request_email.txt
 ef9c8ec8552b8b4b1152ea6fcb7f23fbee96c6fb1327a413f61b4f0001edfc55  environment.json

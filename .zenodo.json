@@ -5,25 +5,17 @@
   "creators": [
     {
       "name": "Kottapalli Deepak Varma",
-      "affiliation": "R.M.D. Engineering College",
-      "orcid": "AUTHOR TO CONFIRM"
+      "affiliation": "R.M.D. Engineering College"
     }
   ],
   "keywords": [
     "EMBER",
     "LEMNA",
     "fused lasso",
-    "explainable AI",
+    "Explainable AI",
     "malware classification",
     "reproducibility"
   ],
-  "version": "0.1.0",
-  "license": "AUTHOR TO CONFIRM",
-  "related_identifiers": [
-    {
-      "identifier": "AUTHOR TO CONFIRM",
-      "relation": "isSupplementTo",
-      "scheme": "url"
-    }
-  ]
+  "version": "1.0.0",
+  "license": "MIT"
 }
